@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hi, I'm Eréndira Contreras! 👋
 
-<!--
-**eren-trueno/eren-trueno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Design Student & QA Analyst | Google Student Ambassador 🚀
 
-Here are some ideas to get you started:
+- 🎓 Software Design Engineering student at UVEG
+- 🧪 Focused on Manual & API Testing, QA Best Practices, and Automation
+- 🐍 Building logic and backend utilities with Python and Salesforce
+- 🌐 Bilingual professional (English / Spanish 🇬🇧🇲🇽) | Learning Mandarin 🇨🇳
+- 🌱 Constantly expanding my technical skills through Cisco, Salesforce Trailhead, and personal projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack & Tools
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | `Python` `Java (Basic)` |
+| **QA & Testing** | `Manual Testing` `API Testing` `Postman` `Jira` `Test Cases` `PyTest` |
+| **Platforms & Cloud** | `Salesforce` `Git & GitHub` |
+| **Environments** | `VS Code` `Cursor` `Linux Basics` |
+
+---
+
+## 🚀 Featured Projects
+
+### 🗂️ Sprint 1 Bug Report
+- **Description:** Structured bug report and test cases developed under QA methodologies.
+- **Technologies:** Jira, Postman, Technical Excel.
+- **🔗 Repository:** [Sprint1_BugReport.xlsx](https://github.com/eren-trueno)
+
+### 🐍 Python Fundamentals Lab
+- **Description:** Practice logic, data structures, and exception handling in Python.
+- **Technologies:** Python, Cursor AI.
+- **🔗 Repository:** [Python-Fundamentals](https://github.com/eren-trueno)
+
+---
+
+## 📜 Certifications & Badges
+
+- 🛡️ **Python Essentials 1** – Cisco Networking Academy *(Credly Verified)*
+- ☁️ **Salesforce Agentblazer Status** – Innovator 2026
+- 🤖 **Superbadges:** Agentforce Service & Prompt Builder Templates
+
+---
+
+## 📊 Currently Learning
+
+- 📈 Advanced Python Automation
+- 🔍 API Test Automation frameworks
+- 🇨🇳 Introductory Mandarin Chinese
+
+---
+
+## 📬 Contact
+
+- **LinkedIn:** [Eréndira Contreras Santamaría](https://www.linkedin.com)
+- **Email:** consanterendira@gmail.com
+
+---
+*⚡ "Passionate about finding bugs, optimizing processes, and improving user experience."*

@@ -39,7 +39,7 @@
 
 ## 📜 Certifications & Badges
 
-[![Python Essentials 1 Badge](https://images.credly.com/images/fdb9d41d-afaa-4347-ad4f-3505631f9240/image.png)](https://www.credly.com/badges/fdb9d41d-afaa-4347-afaa-4347-3505631f9240/linked_in_profile)
+[![Python Essentials 1](https://img.shields.io/badge/Cisco-Python%20Essentials%201-%230496FF?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/fdb9d41d-afaa-4347-ad4f-3505631f9240)
 
 - 🛡️ **Python Essentials 1** – Cisco Networking Academy *(Credly Verified)*
 - ☁️ **Salesforce Agentblazer Status** – Innovator 2026

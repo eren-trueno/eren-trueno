@@ -39,11 +39,19 @@
 
 ## 📜 Certifications & Badges
 
-[![Python Essentials 1](https://img.shields.io/badge/Cisco-Python%20Essentials%201-%230496FF?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/fdb9d41d-afaa-4347-ad4f-3505631f9240)
+## 📜 Certifications & Badges
+
+[![Python Essentials 1](https://img.shields.io/badge/Cisco-Python%20Essentials%201-%230496FF?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/fdb9d41d-afaa-4347-afaa-4347-3505631f9240)
+
+[![Salesforce Innovator](https://img.shields.io/badge/Salesforce-Innovator%202026-%2300A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/kb4tnyl8cpr4exqi04)
+
+[![Pro Tools 101](https://img.shields.io/badge/Avid-Pro%20Tools%20101-%231F1F1F?style=for-the-badge&logo=avid&logoColor=white)](https://www.imdb.com/es/name/nm14212954/?ref_=ext_shr_lnk)
+
+[![Pro Tools 110](https://img.shields.io/badge/Avid-Pro%20Tools%20110-%231F1F1F?style=for-the-badge&logo=avid&logoColor=white)](https://www.imdb.com/es/name/nm14212954/?ref_=ext_shr_lnk)
 
 - 🛡️ **Python Essentials 1** – Cisco Networking Academy *(Credly Verified)*
 - ☁️ **Salesforce Agentblazer Status** – Innovator 2026
-- 🤖 **Superbadges:** Agentforce Service & Prompt Builder Templates
+- 🎧 **Avid Certified User:** Pro Tools 101 & Pro Tools 110 *(IMDB Credited)*
 
 ---
 
